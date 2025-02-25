@@ -11,4 +11,4 @@ Future Work Required: Using Model Reference Adaptive Control to make the system 
 * Simulink
 
 ## Robot Model
-![Robot_Model](https://drive.google.com/drive/folders/1xOzjd24no0YauMVMWOFWlTfHWFfRHhR1)
+![Robot_Model](https://github.com/Djain1105/Self_Balancing_Robot_Matlab/blob/main/Robot%20Model.jpg)
