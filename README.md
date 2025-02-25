@@ -9,3 +9,6 @@ Future Work Required: Using Model Reference Adaptive Control to make the system 
 ## Tools Used
 * MATLAB
 * Simulink
+
+## Robot Model
+![Robot_Model](https://drive.google.com/drive/folders/1xOzjd24no0YauMVMWOFWlTfHWFfRHhR1)
